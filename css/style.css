@@ -1,0 +1,18 @@
+body {
+background-color: #dcedc2;
+}
+hr {
+  border-color: silver;
+  border-style: dotted none none none;
+  height: 0;
+  width: 5%;
+border-width: 4px;
+  }
+h1 {
+  color: #66bfbf;
+  text-transform: uppercase;
+  text-shadow: 3px 2px silver;
+}
+h3 {
+  color: #66bfbf;
+}
